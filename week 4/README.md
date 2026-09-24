@@ -212,6 +212,10 @@ The project can be extended by adding:
 
 ---
 
+
+OUTPUT 
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/d49ce8b5-158a-47f8-8e25-0ef32a783d81" />
+
 ## ⚠️ Note
 
 This project is intended for **educational and data-analysis purposes**. Historical stock price patterns do not by themselves establish future investment performance.
