@@ -164,6 +164,17 @@ jupyter notebook
 ```
 
 Open `Task_1_BDA_(2).ipynb` and run the cells.
+OUTPUT 
+<img width="713" height="560" alt="image" src="https://github.com/user-attachments/assets/450edcbf-9c49-4c82-8674-38669c4bc921" />
+<img width="678" height="470" alt="image" src="https://github.com/user-attachments/assets/9bca858d-5299-4435-b732-696f9d229b28" />
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/9df589c2-7e24-4db7-b7b1-9124dacd66a3" />
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/7200dd06-36ea-4bf7-aa51-47a204bf42cc" />
+<img width="583" height="416" alt="image" src="https://github.com/user-attachments/assets/e0389a8c-5840-4f28-bb22-accaf461509b" />
+<img width="583" height="455" alt="image" src="https://github.com/user-attachments/assets/e1e326a5-7328-4a88-877e-c6ffd24ae03f" />
+<img width="583" height="455" alt="image" src="https://github.com/user-attachments/assets/2b533adb-d563-4b61-9d05-7a3038a681ef" />
+<img width="515" height="435" alt="image" src="https://github.com/user-attachments/assets/130ff718-e045-4c66-a24f-5d87c1105dc6" />
+
+
 
 ## 💡 Conclusion
 
