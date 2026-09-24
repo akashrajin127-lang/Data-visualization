@@ -67,7 +67,19 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 df = pd.read_csv("Healthcare.csv")
+
+
 ```
+
+OUTPUT
+
+
+<img width="826" height="619" alt="image" src="https://github.com/user-attachments/assets/675506c6-f1f4-4daa-b945-43d5e4d459e9" />
+<img width="868" height="527" alt="image" src="https://github.com/user-attachments/assets/8f72a5b1-f46d-43d9-8f46-d004359d53dc" />
+<img width="868" height="528" alt="image" src="https://github.com/user-attachments/assets/13faa2d6-ae22-46f0-a8dc-47ab9a701468" />
+<img width="560" height="432" alt="image" src="https://github.com/user-attachments/assets/dea30534-4ceb-4e62-bb87-d352f7dd1135" />
+<img width="515" height="418" alt="image" src="https://github.com/user-attachments/assets/8539c500-b357-4617-85e5-f852d7e08fb1" />
+
 
 ### View Column Names
 
