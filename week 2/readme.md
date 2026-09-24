@@ -164,6 +164,8 @@ jupyter notebook
 ```
 
 Open `Task_1_BDA_(2).ipynb` and run the cells.
+
+
 OUTPUT 
 <img width="713" height="560" alt="image" src="https://github.com/user-attachments/assets/450edcbf-9c49-4c82-8674-38669c4bc921" />
 <img width="678" height="470" alt="image" src="https://github.com/user-attachments/assets/9bca858d-5299-4435-b732-696f9d229b28" />
